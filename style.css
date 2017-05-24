@@ -1,0 +1,25 @@
+h1 {
+	font-family: 'Russo One', sans-serif;
+	font-size: 10em;
+	text-align: center;
+}
+h2 {
+	font-family: 'Russo One', sans-serif;
+	font-size: 2em;
+	text-align: center;
+}
+
+img {
+	width: 100%;
+	margin: 10px;
+	padding: 10px;
+}
+
+.navbar{
+	font-family: 'Russo One', sans-serif;
+}
+
+.bigSlide {
+	height: 200%;
+	width: 200%;
+}
