@@ -23,3 +23,11 @@ img {
 	height: 200%;
 	width: 200%;
 }
+
+#heading {
+	font-size: 4em;
+}
+
+.row {
+	border-top: 1px solid #B4ABAB;
+}

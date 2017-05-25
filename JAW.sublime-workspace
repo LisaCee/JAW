@@ -219,7 +219,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3679,
+				"buffer_size": 3685,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "<link href=\"https://fonts.googleapis.com/css?famil"
@@ -553,15 +553,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3679,
+						"buffer_size": 3685,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3439,
-								3439
+								3516,
+								3516
 							]
 						],
 						"settings":
@@ -570,7 +570,7 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2325.0,
+						"translation.y": 2250.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
