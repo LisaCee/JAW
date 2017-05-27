@@ -219,7 +219,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3685,
+				"buffer_size": 9850,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "<link href=\"https://fonts.googleapis.com/css?famil"
@@ -229,7 +229,7 @@
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 318,
+				"buffer_size": 391,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "style.css"
@@ -239,7 +239,7 @@
 			"file": "script.js",
 			"settings":
 			{
-				"buffer_size": 504,
+				"buffer_size": 516,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "script.js"
@@ -553,15 +553,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3685,
+						"buffer_size": 9850,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3516,
-								3516
+								7383,
+								7383
 							]
 						],
 						"settings":
@@ -570,7 +570,7 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2250.0,
+						"translation.y": 7200.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -582,15 +582,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 318,
+						"buffer_size": 391,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								318,
-								318
+								391,
+								391
 							]
 						],
 						"settings":
@@ -600,7 +600,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 21.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -612,15 +612,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 504,
+						"buffer_size": 516,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								504,
-								504
+								30,
+								30
 							]
 						],
 						"settings":

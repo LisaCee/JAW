@@ -1,4 +1,5 @@
 $(document).ready(function(){
+
   $('.center').slick({
     centerMode: false,
     centerPadding: '60px',
@@ -6,6 +7,7 @@ $(document).ready(function(){
     autoplay: true,
     arrows: false,
   });
+
    var small={width: "100%", height: "100%"};
         var large={width: "150%",height: "600px"};
         var count=1;
