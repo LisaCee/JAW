@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"getE",
+				"getElementsByTagName"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"b",
+				"backgroundColor"
+			],
+			[
 				"padding",
 				"padding-top"
 			],
@@ -216,33 +228,30 @@
 	"buffers":
 	[
 		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 176,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 9850,
+				"buffer_size": 10673,
 				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "<link href=\"https://fonts.googleapis.com/css?famil"
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 391,
+				"buffer_size": 475,
 				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "style.css"
-			}
-		},
-		{
-			"file": "script.js",
-			"settings":
-			{
-				"buffer_size": 516,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "script.js"
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -364,6 +373,19 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Lisa/Documents/Coding/JAW/style.css",
+		"/C/Users/Lisa/Documents/Coding/JAW/lightbox.css",
+		"/C/Users/Lisa/Documents/Coding/JAW/index.html",
+		"/C/Users/Lisa/Documents/Coding/JAW/lightbox2-master/lightbox2-master/examples/index.html",
+		"/C/Users/Lisa/Downloads/lightbox2-master/lightbox2-master/examples/index.html",
+		"/C/Users/Lisa/Downloads/colorbox-master/colorbox-master/jquery.colorbox.js",
+		"/C/Users/Lisa/Downloads/colorbox-master/colorbox-master/jquery.colorbox-min.js",
+		"/C/Users/Lisa/Documents/Coding/JAW/script.js",
+		"/C/Users/Lisa/Documents/Coding/lswebhomework4/scriptX.js",
+		"/C/Users/Lisa/Documents/Coding/lswebhomework4/script.js",
+		"/C/Users/Lisa/Documents/Coding/lswebhomework4/index.html",
+		"/C/Users/Lisa/Documents/Coding/lswebhomework4/scriptX.jx",
+		"/C/Users/Lisa/Documents/Coding/lswebhomework4/hw4.index",
 		"/C/Users/Lisa/Downloads/lswebhomework2-master/lswebhomework2-master/index.html",
 		"/C/Users/Lisa/Downloads/lswebhomework2-master.zip",
 		"/C/Users/Lisa/Downloads/LS-Web-Intro-I-master (1)/LS-Web-Intro-I-master/austronaut/js/script.js",
@@ -478,20 +500,7 @@
 		"/J/color_boxes",
 		"/J/index",
 		"/J/Color_2",
-		"/J/Color Guessing Game",
-		"/J/Dating Web Site/index.html",
-		"/J/Quote2/index.html",
-		"/J/Ex_Files_JScript_AJAX/Exercise Files/01-02/workingfolder/ajax/index.html",
-		"/J/Ex_Files_JScript_AJAX/Exercise Files/01-02/workingfolder/ajax/script.js",
-		"/J/Ex_Files_JScript_AJAX/Exercise Files/01-02/workingfolder/ajax/data.txt",
-		"/C/Users/Lisa/Downloads/Ex_Files_JScript_AJAX.zip",
-		"/J/Portfolio/index.html",
-		"/J/conFusion/index4_1.html",
-		"/C/Users/Lisa/conFusion/index3_Carousel.html",
-		"/J/Prince/index.html",
-		"/J/index.html",
-		"/C/Users/Lisa/conFusion/Contact.html",
-		"/C/Users/Lisa/conFusion/AboutUs.html"
+		"/J/Color Guessing Game"
 	],
 	"find":
 	{
@@ -544,88 +553,28 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9850,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7383,
-								7383
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<link href=\"https://fonts.googleapis.com/css?famil",
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 7200.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 391,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								391,
-								391
-							]
-						],
-						"settings":
-						{
-							"auto_name": "style.css",
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 21.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "script.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 516,
+						"buffer_size": 176,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								30,
-								30
+								176,
+								176
 							]
 						],
 						"settings":
 						{
-							"auto_name": "script.js",
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -634,7 +583,65 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3633,
+								3633
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 912.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								307,
+								307
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]

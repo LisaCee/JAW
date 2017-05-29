@@ -1,33 +1,41 @@
+.navbar{
+	font-family: 'Russo One', sans-serif;
+}
+
 h1 {
 	font-family: 'Russo One', sans-serif;
 	font-size: 10em;
 	text-align: center;
 }
+
 h2 {
 	font-family: 'Russo One', sans-serif;
 	font-size: 2em;
 	text-align: center;
 }
 
-img {
+.center {
+	margin-left: 5px;
+}
+
+.slide {
 	width: 100%;
 	margin: 10px;
 	padding: 10px;
-}
-
-.navbar{
-	font-family: 'Russo One', sans-serif;
-}
-
-.bigSlide {
-	height: 200%;
-	width: 200%;
 }
 
 #heading {
 	font-size: 4em;
 }
 
-.row {
-	border-top: 1px solid #B4ABAB;
+i.fa.fa-chevron-circle-up{
+	float: right;
+	color: #B4ABAB;
 }
+
+.example-image {
+	margin-top: 5px;
+	padding: 5px;
+	max-width: 100%;
+}
+
