@@ -239,7 +239,7 @@
 			"file": "script.js",
 			"settings":
 			{
-				"buffer_size": 176,
+				"buffer_size": 175,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -248,8 +248,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 12541,
+				"buffer_size": 16813,
 				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Lisa/Documents/Coding/script.js",
+			"settings":
+			{
+				"buffer_size": 77,
 				"line_ending": "Windows"
 			}
 		},
@@ -257,7 +265,7 @@
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 452,
+				"buffer_size": 498,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -561,7 +569,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -570,15 +578,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 176,
+						"buffer_size": 175,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								176,
-								176
+								0,
+								0
 							]
 						],
 						"settings":
@@ -591,7 +599,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -600,15 +608,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12541,
+						"buffer_size": 16813,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4799,
-								4799
+								0,
+								0
 							]
 						],
 						"settings":
@@ -620,24 +628,52 @@
 						"translation.y": 2055.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "style.css",
+					"file": "/C/Users/Lisa/Documents/Coding/script.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 452,
+						"buffer_size": 77,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								230,
-								230
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -649,7 +685,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]

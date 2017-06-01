@@ -16,10 +16,6 @@ h2 {
 	text-align: center;
 }
 
-.center {
-	margin-left: 5px;
-}
-
 .slide {
 	width: 100%;
 	margin: 10px;
@@ -27,10 +23,16 @@ h2 {
 }
 
 #heading {
+	margin-top: 125px;
 	font-size: 4em;
 }
 
-i.fa.fa-chevron-circle-up{
+i.fa.fa-chevron-circle-up {
+	float: right;
+	color: #B4ABAB;
+}
+
+i.fa.fa-plus-circle {
 	float: right;
 	color: #B4ABAB;
 }
