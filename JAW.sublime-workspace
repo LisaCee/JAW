@@ -248,7 +248,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 16789,
+				"buffer_size": 22512,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -601,15 +601,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 16789,
+						"buffer_size": 22512,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								12576,
-								12576
+								17594,
+								17594
 							]
 						],
 						"settings":
@@ -618,7 +618,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 6793.0,
+						"translation.y": 12914.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
