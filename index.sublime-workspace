@@ -235,15 +235,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/Users/Lisa/Documents/Coding/lswebhomework6/exercises.js",
-			"settings":
-			{
-				"buffer_size": 4277,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -494,7 +485,7 @@
 	],
 	"find":
 	{
-		"height": 59.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
@@ -544,39 +535,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/Users/Lisa/Documents/Coding/lswebhomework6/exercises.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4277,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4277,
-								4277
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 4896.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -616,7 +576,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "JAW.sublime-project",
+	"project": "index.sublime-project",
 	"replace":
 	{
 		"height": 56.0
@@ -652,15 +612,6 @@
 	"selected_group": 0,
 	"settings":
 	{
-		"last_automatic_layout":
-		[
-			[
-				0,
-				0,
-				1,
-				1
-			]
-		]
 	},
 	"show_minimap": true,
 	"show_open_files": true,
