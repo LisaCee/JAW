@@ -8,5 +8,13 @@ $(document).ready(function(){
     arrows: false,
   });
 
+  $(".fa").mouseover(function(){
+  	$(this).css("color", "black");
+  });
+
+  $(".fa").mouseout(function(){
+  	$(this).css("color", "");
+  })
+
 })
 

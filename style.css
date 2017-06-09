@@ -16,6 +16,10 @@ h2 {
 	text-align: center;
 }
 
+h3 {
+	padding-top: 1em;
+}
+
 .slide {
 	width: 100%;
 	margin: 10px;
@@ -28,7 +32,8 @@ h2 {
 }
 
 i.fa.fa-chevron-circle-up {
-	float: right;
+	padding-top: 50px;
+	padding-left: 40px;
 	color: #B4ABAB;
 }
 
@@ -43,3 +48,23 @@ i.fa.fa-plus-circle {
 	max-width: 100%;
 }
 
+#social {
+	background-color: #ececec;
+	padding: 5px 0px;
+}
+
+i.fa.fa-facebook-square.fa-2x {
+	color: #B4ABAB;
+}
+
+i.fa.fa-instagram.fa-2x {
+	color: #B4ABAB;
+}
+
+i.fa.fa-google-plus-official.fa-2x {
+	color: #B4ABAB;
+}
+
+i.fa.fa-envelope.fa-2x{
+	color: #B4ABAB;
+}
