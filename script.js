@@ -8,21 +8,19 @@ $(document).ready(function(){
     arrows: false,
   });
 
-  $(".fa").mouseover(function(){
-  	$(this).css("color", "#646363");
-  });
+  $(".fa").hover(function(){
+  	$(this).css("color", "#fc620a");
+  })
 
   $(".fa").mouseout(function(){
   	$(this).css("color", "");
   });
 
-  $("p").mouseover(function(){
-    $(this).css("color", "#646363");
+  $("p").hover(function(){
+    $(this).css("color", "#FC620A");
   });
 
-  $("p").mouseout(function(){
-    $(this).css("color", "");
-  })
+
 
 })
 

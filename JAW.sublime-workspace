@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"store",
+				"storeItem"
+			],
+			[
+				"discou",
+				"discountPercentage"
+			],
+			[
+				"myster",
+				"mysteryNumberObject"
+			],
+			[
+				"test",
+				"testScores"
+			],
+			[
 				"wir",
 				"wire-gallery"
 			],
@@ -136,10 +152,6 @@
 				"invokeCallback"
 			],
 			[
-				"store",
-				"storeItem"
-			],
-			[
 				"stor",
 				"storeItem"
 			],
@@ -243,7 +255,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 19180,
+				"buffer_size": 19372,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 456,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -367,14 +388,19 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Lisa/Documents/Coding/lswebhomework8/callbacks.js",
+		"/C/Users/Lisa/Documents/Coding/lswebhomework7/exercises.js",
+		"/C/Users/Lisa/Documents/Coding/lswebhomework7/.eslintrc.js",
+		"/C/Users/Lisa/lswebhomework7/exercises.js",
+		"/C/Users/Lisa/Desktop/lswebhomework7/exercises.js",
+		"/C/Users/Lisa/Documents/Coding/JAW/script.js",
+		"/C/Users/Lisa/Documents/Coding/JAW/style.css",
+		"/C/Users/Lisa/Documents/Coding/JAW/index.html",
 		"/C/Users/Lisa/Documents/Coding/lswebhomework6/exercises.js",
 		"/C/Users/Lisa/Documents/Coding/lswebhomework6/lswebhomework6/exercises.js",
 		"/C/Users/Lisa/Desktop/play.js",
 		"/C/Users/Lisa/Desktop/lswebhomework5/index.html",
 		"/C/Users/Lisa/Desktop/lswebhomework5/script.js",
-		"/C/Users/Lisa/Documents/Coding/JAW/style.css",
-		"/C/Users/Lisa/Documents/Coding/JAW/script.js",
-		"/C/Users/Lisa/Documents/Coding/JAW/index.html",
 		"/C/Users/Lisa/Documents/Coding/script.js",
 		"/C/Users/Lisa/Documents/Coding/JAW/lightbox.css",
 		"/C/Users/Lisa/Documents/Coding/JAW/lightbox2-master/lightbox2-master/examples/index.html",
@@ -489,12 +515,7 @@
 		"/J/Lynda/Ex_Files_JS_EssT_2011/Exercise Files/Chap01/simple.html",
 		"/J/LambdaSchoolJS/js-minicamp-homework-1-master/exercises.js",
 		"/J/Lynda/Ex_Files_JS_EssT_2011/Exercise Files/Chap02/scriptPosition.html",
-		"/C/Users/Lisa/Desktop/js-minicamp-homework-1-master/package.json",
-		"/J/JAW/js/jaw.js",
-		"/J/JAW/js/jaw.css",
-		"/J/JAW/jaw.index.html",
-		"/J/Coursera/HK U of Science and Tech/conFusion/index3_Carousel.html",
-		"/J/Coursera/HK U of Science and Tech/conFusion/index.html"
+		"/C/Users/Lisa/Desktop/js-minicamp-homework-1-master/package.json"
 	],
 	"find":
 	{
@@ -512,6 +533,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"social",
+			"arr",
 			"red",
 			"concre",
 			"thumbnail",
@@ -558,27 +581,56 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 19180,
+						"buffer_size": 19372,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3158,
-								3158
+								3375,
+								3376
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1081.0,
+						"translation.y": 1152.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -669,7 +721,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 145.0,
 	"status_bar_visible": true,
 	"template_settings":
