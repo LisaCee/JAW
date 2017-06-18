@@ -9,11 +9,19 @@ $(document).ready(function(){
   });
 
   $(".fa").mouseover(function(){
-  	$(this).css("color", "black");
+  	$(this).css("color", "#646363");
   });
 
   $(".fa").mouseout(function(){
   	$(this).css("color", "");
+  });
+
+  $("p").mouseover(function(){
+    $(this).css("color", "#646363");
+  });
+
+  $("p").mouseout(function(){
+    $(this).css("color", "");
   })
 
 })

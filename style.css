@@ -2,7 +2,7 @@
 	font-family: 'Russo One', sans-serif;
 }
 
-h1, h2, h3 {
+p, h1, h2, h3 {
 	font-family: 'Russo One', sans-serif;
 }
 
@@ -24,6 +24,10 @@ h3 {
 	width: 100%;
 	margin: 10px;
 	padding: 10px;
+}
+
+.container {
+	margin-bottom: 25px;
 }
 
 #heading {
@@ -49,8 +53,8 @@ i.fa.fa-plus-circle {
 }
 
 #social {
-	background-color: #ececec;
-	padding: 5px 0px;
+	background-color: #F8F8F8;
+	text-align: center;
 }
 
 i.fa.fa-facebook-square.fa-2x {
@@ -67,4 +71,11 @@ i.fa.fa-google-plus-official.fa-2x {
 
 i.fa.fa-envelope.fa-2x{
 	color: #B4ABAB;
+}
+
+p {
+	font-size: .75em;
+	color: #B4ABAB;
+	text-align: right;
+	margin-bottom: -10px;
 }
