@@ -1,0 +1,102 @@
+.navbar{
+	font-family: 'Russo One', sans-serif;
+}
+
+body {
+	background: #bde5ee;
+/*	background: #a1dbe7;*/
+	/*background: #cfe0eb;*/
+}
+
+p, h1, h2, h3, h4 {
+	font-family: 'Russo One', sans-serif;
+}
+
+h1 {
+	font-size: 10em;
+	text-align: center;
+	color: #fc620a;
+	-webkit-text-stroke: 3px #fa9335;
+}
+
+h2 {
+	font-size: 3em;
+	text-align: center;
+	color: #194a7b;
+}
+
+h3 {
+	font-size: 2em;
+	text-align: center;
+	color: #194a7b;
+}
+
+h4 {
+	padding-top: 1em;
+	color: #194a7b;
+}
+
+.slide {
+	width: 100%;
+	margin: 10px;
+	padding: 10px;
+}
+
+.container {
+	margin-bottom: 25px;
+}
+
+#heading {
+	margin-top: 125px;
+	font-size: 4em;
+}
+
+i.fa.fa-chevron-circle-up {
+	padding-top: 50px;
+	padding-left: 40px;
+	color: #B4ABAB;
+}
+
+i.fa.fa-plus-circle {
+	float: right;
+	color: #B4ABAB;
+}
+
+.example-image {
+	margin-top: 5px;
+	padding: 5px;
+	max-width: 100%;
+}
+
+#social {
+	background: #194a7b;
+	/*background-color: #F8F8F8;*/
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+#social a {
+	color: #bde5ee;
+}
+
+i.fa.fa-facebook-square.fa-2x {
+	color: #B4ABAB;
+}
+
+i.fa.fa-instagram.fa-2x {
+	color: #B4ABAB;
+}
+
+i.fa.fa-google-plus-official.fa-2x {
+	color: #B4ABAB;
+}
+
+i.fa.fa-envelope.fa-2x{
+	color: #B4ABAB;
+}
+
+p {
+	font-size: .75em;
+	color: #B4ABAB;
+	margin-bottom: -10px;
+}
