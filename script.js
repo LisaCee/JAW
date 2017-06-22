@@ -20,14 +20,14 @@ $(document).ready(function(){
     $(this).css("color", "#FC620A");
   });
 
-  $("img.example-image.img-responsive").mouseover(function(){
+  $("#art img.example-image.img-responsive").mouseover(function(){
     $(this).css("border", "solid #194a7b 3px")
   })
-   
+
   $("img.example-image.img-responsive").mouseout(function(){
     $(this).css("border", "")
   });
 
-  
+
 })
 
