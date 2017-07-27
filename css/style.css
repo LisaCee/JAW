@@ -48,6 +48,7 @@ h4 {
 .container p {
 	text-align: justify;
 	color: #FC620A;
+	font-variant: small-caps;
 }
 
 #heading {
@@ -174,4 +175,12 @@ i.fa.fa-envelope.fa-2x{
     color: #fc620a;
     background-color: #fa9335;
   }
+}
+
+div.offset-md-2.col-md-9 {
+	margin-left: 14%;
+}
+
+.slick-slider {
+	margin-right: 50px;
 }
