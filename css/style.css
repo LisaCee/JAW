@@ -181,11 +181,11 @@ div.offset-md-2.col-md-9 {
 	margin-left: 14%;
 }
 
-/*.slick-slider {
-	margin-right: 50px;
-}
-*/
-
 div.center.slick-initialized.slick-slider {
 	margin-right: 50px;
+}
+
+.center {
+	margin-right: 30px;
+	margin-right: 40px;
 }
