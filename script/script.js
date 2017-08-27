@@ -1,12 +1,23 @@
 $(document).ready(function(){
 
-  $('.center').slick({
-    centerMode: false,
-    centerPadding: "60px",
-    slidesToShow: 3,
-    autoplay: true,
-    arrows: false,
-  });
+  $('.responsive').slick({
+  dots: false,
+  arrows: false,
+  infinite: true,
+  autoplay: true,
+  autoplaySpeed: 1500,
+  slidesToShow: 3,
+  slidesToScroll: 1,
+  responsive: [
+    {
+      breakpoint: 575,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1,
+      }
+    }
+  ]
+});
 
   $(".fa").hover(function(){
   	$(this).css("color", "#fc620a");
